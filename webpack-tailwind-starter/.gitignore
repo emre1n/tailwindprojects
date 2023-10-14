@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Built files
+# dist/
+# build/
+# *.bundle.js
+# *.min.js
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node.js specific files
+npm-debug.log
+
+# Testing
+coverage/
+
+# Compiled binary addons (if any)
+/build/Release
